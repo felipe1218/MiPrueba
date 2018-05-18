@@ -1,6 +1,6 @@
 #include
 int main()
 {
-printf("Hello Ubuntu");
+printf("Hello ubuntu");
 return 0;
 }
